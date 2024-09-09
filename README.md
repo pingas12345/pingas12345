@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pingas12345
 - 👀 I’m interested in ... Linux and most open source software
-- 🌱 I’m currently learning ... Computer Science with a Major in Cyber Security
+- 🌱 I’m currently working full time at an MSP
 
 
 <!---
